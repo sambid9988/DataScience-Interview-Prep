@@ -1,7 +1,7 @@
 
 Product Data Science Blogs
 
-Guide
+Guide/n
 https://towardsdatascience.com/the-ultimate-guide-to-product-data-science-interview-questions-d9a1dc838246
 https://www.stratascratch.com/blog/the-ultimate-guide-to-product-data-science-interview-questions/
 
